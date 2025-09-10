@@ -13,6 +13,7 @@ if (c>=3):
 if (d<=2.9):
     print("Usted esta en riesgo de reprobar con ",d)
 if (e=="rojo"):
-    print("Luis también prefiere el ",e)
+    print("Luis también  el ",e)
 if (f!="verde"):
+
     print("Usted no puede seguir si esta en ",f)
